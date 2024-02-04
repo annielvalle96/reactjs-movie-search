@@ -30,3 +30,9 @@ Primera iteración:
 
 Mi API:
 ✅ Luego de analizar su funcionamiento: https://www.omdbapi.com/?s=Shrek&apikey=ed41c42f
+
+### Project Screenshots
+#### Screenshot 1
+![Image](./Screenshot%20(1).png)
+#### Screenshot 2
+![Image](./Screenshot%20(2).png)
